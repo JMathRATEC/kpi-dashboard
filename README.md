@@ -131,6 +131,11 @@ Siga os passos abaixo para instalar e executar esta aplicação Laravel (backend
 
 ---
 
+## Usuário fixo para login
+
+``email: admin@example.com``
+``senha:senha123`` 
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
