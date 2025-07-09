@@ -48,7 +48,7 @@ Siga os passos abaixo para instalar e executar esta aplicação Laravel utilizan
 
 7. **Acesse a aplicação:**
 
-    Abra o navegador e acesse [http://localhost:8000](http://localhost:8000)
+    Abra o navegador e acesse [http://localhost](http://localhost)
 
 ### Comandos úteis
 
